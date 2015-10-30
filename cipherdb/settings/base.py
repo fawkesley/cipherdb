@@ -42,7 +42,7 @@ INSTALLED_APPS = (
     'django_extensions',
 
     # Project apps.
-    #'cipherdb.apps.',
+    'cipherdb.apps.ciphersuites',
 )
 
 MIDDLEWARE_CLASSES = (
